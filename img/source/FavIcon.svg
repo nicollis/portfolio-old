@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="FavIcon.svg"
+   inkscape:export-filename="C:\Users\nicg3_000\Desktop\FavIcon.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="17.834975"
+     inkscape:cy="8.8548112"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <path
+       sodipodi:type="star"
+       style="fill:#474747;fill-opacity:1;stroke:#232323;stroke-width:2.25004802;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2987"
+       sodipodi:sides="6"
+       sodipodi:cx="6.3392859"
+       sodipodi:cy="3.2946427"
+       sodipodi:r1="14.929949"
+       sodipodi:r2="12.929715"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.71"
+       inkscape:randomized="0"
+       d="m 13.80426,16.224358 c -9.1800982,5.300131 -5.7498518,5.300132 -14.9299492,-10e-7 -9.1800978,-5.300132 -7.4649743,-2.329451 -7.4649738,-12.929715 6e-7,-10.6002637 -1.715123,-7.6295832 7.4649751,-12.9297146 9.1800978,-5.3001314 5.7498514,-5.3001314 14.9299489,7e-7 9.180097,5.3001323 7.464974,2.3294517 7.464974,12.9297153 -10e-7,10.6002636 1.715122,7.6295836 -7.464975,12.9297146 z"
+       transform="matrix(0.88886992,0,0,0.88886992,10.365199,1033.4337)" />
+    <path
+       transform="translate(8.0803572,1025.2729)"
+       style="fill:#232323;fill-opacity:1;stroke:none"
+       d="m 7.8571436,26.13964 c 0,-9.196401 0.045008,-21.7827382 -0.044643,-30.1651102 1.7319201,0.9999246 8.8713705,5.2177589 13.1313455,7.6772562 0,3.66243 0.0596,6.171199 0.149248,14.553571 -1.341083,1.341083 -9.987506,5.79106 -13.2359504,7.934283 z"
+       id="path3779"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="15.95166"
+       y="1043.3491"
+       id="text3782"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3784"
+         x="15.95166"
+         y="1043.3491"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#bbbbbb;fill-opacity:1;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">n</tspan></text>
+  </g>
+</svg>

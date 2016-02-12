@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="110"
+   height="66"
+   id="svg3034">
+  <defs
+     id="defs3036" />
+  <metadata
+     id="metadata3039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-986.36218)"
+     id="layer1">
+    <path
+       d="m 268.61355,354.62999 c -3.73655,6.57992 -57.82062,38.77698 -65.34797,38.95013 -7.52736,0.17316 -61.68116,-31.6391 -65.52419,-38.12569 -3.84303,-6.4866 -3.60231,-68.70828 0.0118,-75.32195 3.61413,-6.61366 58.00059,-37.96277 65.49414,-37.99858 7.49355,-0.0358 61.46991,30.69793 65.37802,37.17415 3.9081,6.47621 3.72472,68.74202 -0.0118,75.32194 z"
+       transform="matrix(0.72081848,0,0,0.38573309,-91.483554,896.75408)"
+       id="path2985-6"
+       style="fill:#f3f3f3;fill-opacity:1;stroke:#efefef;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="54.976563"
+       y="1034.2421"
+       id="text2984"
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="54.976563"
+         y="1034.2421"
+         id="tspan2986"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">C++</tspan></text>
+  </g>
+</svg>

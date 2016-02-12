@@ -1,0 +1,236 @@
+/*
+    Start profile style sheet
+*/
+body{
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #434343;
+    margin: 0px; padding: 0px; border: 0px;
+}
+/*
+    Header Bar Start
+*/
+header{
+    font-size: 20px;
+    height: 10px;
+    padding: 10px;
+}
+logo{
+    float:left;
+}
+sup {
+   vertical-align: baseline;
+   position: relative;
+   top: -0.4em;
+}
+ul{     /*Effiects Head and Footer*/
+    float: right;
+    margin-top: 0px;
+}
+ul li{  /*Effiects Head and Footer*/
+    display: inline;
+    padding-right: 10px;
+}
+hr{
+    height: 2px;
+    background-color: #d9d9d9;
+    border: none;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+/*
+    Footer Bar Start
+*/
+footer{
+    font-size: 13px;
+    margin-bottom: 10px;
+    height: 20px;
+}
+copyright{
+    float: left;
+}
+/*
+    Main Content Area
+*/
+.login{
+    height: auto;
+    text-align: center;
+    font-size: 18px;
+    margin: 20px;
+    margin-left: 40px;
+    padding: 10px;
+}
+name, #td_name{
+    font-weight: bold;
+    color: black;
+}
+/* 
+    Login Properties 
+*/
+#login {
+    text-align: right;
+    width: 450px;
+    margin: 0 auto;
+}
+#login name{
+    padding-right: 10px;
+    padding-left: 30px;
+}
+#login input, #new_post{
+    width:300px;
+    display:inline-block;
+    border: 1px solid #d9d9d9;
+    height: 30px;
+    font-size: 20px;
+    padding-left: 5px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+input.button{
+    height: 30px;
+    width: 160px;
+    margin-left: 30px;
+    border: 1px solid #d9d9d9;
+    background-color: #f3f3f3;
+    color: #434343 
+}
+input.button:hover{
+    background-color: #b7b7b7;
+}
+/* 
+    Blog Properties 
+*/
+.thoughts{
+    max-width: 740px;
+    margin: 0 auto;
+    
+}
+.thoughts #new_post{
+    width: 160px;
+    float: left;
+}
+controls #search{
+    width:200px;
+    display:inline-block;
+    border: 1px solid #d9d9d9;
+    height: 26px;
+    font-size: 20px;
+    padding-left: 5px;
+    margin-bottom: 20px;
+    color: #222;
+    float: right;
+}
+#blog-enteries{
+    margin: 10px auto;
+}
+#blog-enteries tr{
+    border-bottom: 2px solid #d9d9d9;
+    
+    font-size: 14px;
+}
+#blog-enteries tr:hover{
+    /*background: #6d9eeb;*/
+}
+#blog-enteries th{
+    padding: 2px 10px;
+    background: #d9d9d9;
+}
+#blog-enteries td{
+    padding:10px 10px;
+}
+#td_name{
+    font-size: 18px;
+}
+#td_name a:hover{
+    color: #6d9eeb;
+}
+#td_datestamp{
+    font-style: italic;
+}
+/* 
+    Blog Editor Properties 
+*/
+.post_editor, .{
+    font-size: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+}
+.post_editor input, select, option{
+    width:200px;
+    display:inline-block;
+    border: 1px solid #d9d9d9;
+    height: 24px;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    color: #222;
+}
+.post_editor .checkbox{
+    width: 30px;
+}
+.post_editor .button{
+    margin-top: 20px;
+    width: 140px;
+    height: 30px;
+}
+#project_desc{
+    width: 550px;
+    height: 200px;
+}
+/*
+    Odua Form Properties
+*/
+#odua_form_body h1 {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.odua_form > .textarea_block{
+    display: inline-block;
+    text-align: left;
+}
+.odua_form .title{
+    font-style: italic;
+}
+.odua_form > textarea{
+    display: inline-block;
+}
+.odua_form > .slideshow_row > input, .odua_form > .slideshow_row > button{
+    vertical-align: top;
+}
+.odua_form vr{
+    border-left: 2px solid #ccc;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+.odua_form .three-skills{
+    padding: 0px;
+    display: inline;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.odua_form .three-skills > vr {
+    padding-top: 130px;
+    margin: 0 10px;
+}
+.odua_form .skill{
+    display: inline-block;
+    width: 180px;
+    padding: 10px;
+}
+.odua_form .skill > .skill_img{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    border: 2px solid #434343;
+}
+.odua_form .skill > h3{
+    margin: 4px;
+}
+.odua_form .skill > p{
+    margin: 0px;
+}
